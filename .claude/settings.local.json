@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pdflatex:*)",
+      "Bash(python3:*)",
+      "Bash(pip install:*)",
+      "Bash(pacman:*)",
+      "Bash(pip3 install:*)"
+    ]
+  }
+}
